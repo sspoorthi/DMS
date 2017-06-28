@@ -35,6 +35,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+hooks/
+lib/
+platforms/
+tmp/
 
 # Typescript v1 declaration files
 typings/
@@ -56,4 +60,6 @@ typings/
 
 # dotenv environment variables file
 .env
+# visual studio ignore 
+.vscode
 
