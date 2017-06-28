@@ -5,9 +5,9 @@
   "readme": "A Hybrid mobile App to assist users in disasters",
   "repository": "https://github.com/sspoorthi/DMS.git",
   "nativescript": {
-    "id": "org.nativescript.dms",
+    "id": "org.nativescript.DMS",
     "tns-android": {
-      "version": "3.0.1"
+      "version": "3.1.1"
     }
   },
   "dependencies": {
