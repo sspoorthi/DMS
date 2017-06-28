@@ -1,8 +1,7 @@
 {
   "description": "DMS",
   "license": "MIT",
-  "version":"1.0",
-   "author": "Gowtham & Spoorthi",
+  "author": "Gowtham & Spoorthi",
   "readme": "A Hybrid mobile App to assist users in disasters",
   "repository": "https://github.com/sspoorthi/DMS.git",
   "nativescript": {
